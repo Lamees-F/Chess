@@ -1,0 +1,6 @@
+streamlit==1.16.0         # Use the appropriate version based on your requirements
+opencv-python==4.5.5.64    # Or the version you're using
+ultralytics==8.0.0         # YOLO library, ensure it matches your version
+chess==1.7.0               # Chess library for chess-related functionality
+reportlab==3.6.0           # For PDF generation
+pandas==1.5.0              # For data manipulation
